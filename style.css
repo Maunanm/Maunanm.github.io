@@ -95,7 +95,7 @@ nav ul li{
 }
 .garis{
 	border: 0;
-	height: 5px;
+	height: 0px;
 	background-image: linear-gradient(180deg,#ff00ff,#9500ff);
 }
 .secabout {
