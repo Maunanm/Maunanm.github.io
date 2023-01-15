@@ -204,11 +204,11 @@ footer{
 	background:black;
 	color: white;
 	text-align: center;
-	font-size: 10px;
+	font-size: 20px;
 	padding-bottom: 25px;
 }
 .footersm{
-	font-size: 20px;
+	font-size: 10px;
 	padding-bottom: 10px;
 	padding-top: 25px;
 }
